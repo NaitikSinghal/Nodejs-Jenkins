@@ -27,7 +27,7 @@ pipeline {
                   deploymentGroupName: 'nodejs-application-DG', 
                   excludes: '', 
                   iamRoleArn: '',
-                  includes: 'dist/**, appspec.yml, scripts/**',
+                  includes: 'dist/',
                   proxyHost: '', 
                   proxyPort: 0, 
                   region: 'eu-north-1',
