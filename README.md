@@ -1,6 +1,6 @@
 ![Architecture Diagram](./CICD.png)
 
-### Shell scripting task is uploaded in the same repo in this file /shellscript
+###------------ Shell scripting task is uploaded in the same repo in this file /shell-script-task.sh--------------- 
 # Node.Js application deployment on AWS 
 ## Tool Used 
 - Jenkins
