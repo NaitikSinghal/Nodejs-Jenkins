@@ -1,1 +1,1 @@
-![Architecture Diagram](./CICD.png.png)
+![Architecture Diagram](./CICD.png)
