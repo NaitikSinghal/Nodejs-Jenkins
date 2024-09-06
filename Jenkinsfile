@@ -31,8 +31,8 @@ pipeline {
                   proxyHost: '', 
                   proxyPort: 0, 
                   region: 'eu-north-1',
-                  // s3bucket: 'deploymasters-nodejs',
-                  // s3prefix: '',
+                  s3bucket: 'deploymasters-node-js',
+                  s3prefix: '',
                   subdirectory: '', 
                   versionFileName: '', 
                   waitForCompletion: false])
