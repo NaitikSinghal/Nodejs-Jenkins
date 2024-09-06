@@ -35,7 +35,8 @@ pipeline {
                   s3prefix: '',
                   subdirectory: '', 
                   versionFileName: '', 
-                  waitForCompletion: false])
+                  waitForCompletion: false,
+                 ])
            }
         }
     }
