@@ -1,4 +1,3 @@
-![Architecture Diagram](./CICD.png)
 
 ### ------------ Shell scripting task is uploaded in the same repo in this file /shell-script-task.sh--------------- 
 # Node.Js application deployment on AWS 
@@ -10,11 +9,16 @@
 
 This Guide will walk you through step bu step process of creating a jenkins file to deploying the application on AWS EC2.
 
+## Project Architecture
+![Architecture Diagram](./CICD.png)
+
 ## Setup Steps
 
-Clone this repo in you local. 
+Clone this repo in your local. 
 
-Create an AWS
+Create an AWS EC2 instance in your Console
+
+Install 
 
 ### 1. Clone the repository
 
