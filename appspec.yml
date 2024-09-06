@@ -5,13 +5,13 @@ files:
     destination: /home/ubuntu/dist
 hooks:
   BeforeInstall:
-    - location: dist/scripts/beforeinstall.sh
+    - location: scripts/beforeinstall.sh
       timeout: 60
-    - location: dist/scripts/install.sh
+    - location: scripts/install.sh
       timeout: 240
   ApplicationStart:
-    - location: dist/scripts/start.sh
+    - location: scripts/start.sh
       timeout: 60
   ValidateService:
-    - location: dist/scripts/validate.sh
+    - location: scripts/validate.sh
       timeout: 30
